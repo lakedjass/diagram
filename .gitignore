@@ -1,0 +1,5 @@
+# Fichier latex compile
+.rapport/rappot.aux
+.rapport/rappot.log
+.rapport/rappot.synctex.gz
+.rapport/rapport.toc
