@@ -1,5 +1,5 @@
 # Fichier latex compile
-*rapport/rapport.aux
-*.rapport/rapport.log
-* rapport/rapport.synctex.gz
-.rapport/rapport.toc
+/rapport/rapport.aux
+/rapport/rapport.log
+/rapport/rapport.synctex.gz
+/rapport/rapport.toc
